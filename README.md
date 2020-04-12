@@ -17,7 +17,7 @@ The code for this project should run with the default Anaconda libraries, no ext
 
 ## Project Motivation
 This is a Udacity project that is intended to test my abilities as a data scientist and how I would perform with a real world task, for that I chose to work with Starbuckse data, and answer the following questions:
-1. Which type of offers and channels have the greatest impact on offer completion?
+1. For the completed offers, what is the distribution of offer types and channels?
 2. What are the characteristics of customers who complete 50% or more of the offers they view and those who complete less?
 3. Can we determine which demographic groups respond best to which offer type?
 
