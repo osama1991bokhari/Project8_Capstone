@@ -33,7 +33,7 @@ This is a Udacity project that is intended to test my abilities as a data scient
 <a name="results"/>
 
 ## Results
-The results can be found in [this Mediam blog](https://medium.com/p/fa96f46e7132/edit)
+The results can be found in [this Mediam blog](https://medium.com/@osama1991bokhari/udacity-data-scientist-starbucks-capstone-challenge-fa96f46e7132)
  
 <a name="lic"/>
 
